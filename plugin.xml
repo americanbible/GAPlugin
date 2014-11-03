@@ -49,6 +49,10 @@
 
         <header-file src="src/ios/GAI.h" />
         <header-file src="src/ios/GAIDictionaryBuilder.h" />
+        <header-file src="src/ios/GAIEcommerceFields.h" />
+        <header-file src="src/ios/GAIEcomerceProduct.h" />
+        <header-file src="src/ios/GAIEcomerceProductAction.h" />
+        <header-file src="src/ios/GAIEcomercePromotion.h" />
         <header-file src="src/ios/GAIFields.h" />
         <header-file src="src/ios/GAILogger.h" />
         <header-file src="src/ios/GAITrackedViewController.h" />
